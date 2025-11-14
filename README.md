@@ -41,9 +41,3 @@ Full UX process and decision-making:
 - 📊 Dashboard and property management screens
 - 🎨 Strong identity with consistent typography & colors
 - 🔍 Smooth & clear user navigation
-
----
-
-## 📸 Preview
-
-Add your screenshots here after adding them to `/assets/screens/`:
