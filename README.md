@@ -20,7 +20,7 @@ This repository includes the **official UI/UX Figma design** and the **full case
 ### 🔗 Rento Website (UI Design)
 
 Explore the complete interface:
-👉 [https://www.figma.com/design/08UNLeHpSYqstLFLKm7aHn/Rento-Pro?node-id=146-140](https://www.figma.com/design/08UNLeHpSYqstLFLKm7aHn/Rento-Pro?node-id=146-140)
+👉 [[https://www.figma.com/design/08UNLeHpSYqstLFLKm7aHn/Rento-Pro?node-id=146-140](https://www.figma.com/design/08UNLeHpSYqstLFLKm7aHn/Rento-Pro?node-id=146-140](https://www.figma.com/design/08UNLeHpSYqstLFLKm7aHn/Rento-Pro?node-id=2853-24200&t=XAlRLxM7HQlQjgOl-1))
 
 ### 📘 Rento Case Study
 
