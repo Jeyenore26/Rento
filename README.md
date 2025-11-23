@@ -27,7 +27,8 @@ Explore the complete interface:
 Full UX process and decision-making:
 👉 [https://www.figma.com/design/M11EdEKKo2yEcR58AJyo0q/Rento-Case-Study?node-id=0-1](https://www.figma.com/design/M11EdEKKo2yEcR58AJyo0q/Rento-Case-Study?node-id=0-1)
 
-### <img src="https://img.icons8.com/color/24/google-drive--v1.png" width="20" style="vertical-align:middle;" /> **[Rento Google Drive]([https://drive.google.com/drive/folders/1bMcGYRnySYnTW1ZXPOBPtMmNC-xxZfGb?usp=drive_link](https://drive.google.com/drive/folders/1bMcGYRnySYnTW1ZXPOBPtMmNC-xxZfGb?usp=sharing)**
+### <img src="https://img.icons8.com/color/24/google-drive--v1.png" width="20" style="vertical-align:middle;" /> **[Rento Google Drive]
+[https://drive.google.com/drive/folders/1bMcGYRnySYnTW1ZXPOBPtMmNC-xxZfGb?usp=drive_link](https://drive.google.com/drive/folders/1bMcGYRnySYnTW1ZXPOBPtMmNC-xxZfGb?usp=sharin)
 
 All files used in the Rento project.
 
